@@ -5,8 +5,8 @@ We are using yolov8 model this is the updated model,which doesnot required to cl
 We are detecing object that are mentioned in the class list writen inside the code
 We are uploading images and lables in crome driver and import it in colab and map it to train the model 
 
-In yolov8 dataset should be in this format,
-1.Create folder ex:- first_data_set,
+In yolov8 dataset should be in this format,\n
+1.Create folder ex:- first_data_set,\n
 2.Create folder as test,val,train
 3.With in each folder create image and lable folder 
 4.Using makesence.Ai create lables by uploading images and write labels and mape every images to proper labels.
