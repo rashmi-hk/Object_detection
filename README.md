@@ -14,8 +14,7 @@ In yolov8 dataset should be in this format,<br>
 6.Create data.yaml folder ex:- <br>
       train: /content/drive/MyDrive/saridon_dolo_data_set/train <br>
       val: /content/drive/MyDrive/saridon_dolo_data_set/val <br>
-      test: /content/drive/MyDrive/saridon_dolo_data_set/test <br>
-      
+      test: /content/drive/MyDrive/saridon_dolo_data_set/test <br>  
       nc: 2  <br>
       name: ['Dolo 650', 'Saridon']
 
